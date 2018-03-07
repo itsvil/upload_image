@@ -8,7 +8,7 @@
  */
 
 namespace Classes;
-//[version test1.0]
+
 class UploadImage
 {
 
